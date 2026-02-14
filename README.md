@@ -1,93 +1,122 @@
-👋 Hi, I'm Gurram Vinnu
+<div align="center">
 
-🚀 Full Stack Developer | 3+ Years Experience | MERN | MEAN | .NET Expert
+  <h1>Gurram Vinnu</h1>
+  <h3>Full Stack Developer | 3+ Years Experience | MERN | MEAN | .NET Expert</h3>
 
-I am a passionate and results-driven Full Stack Developer with over 3+ years of experience in designing and developing modern web applications, mobile apps, and scalable platforms.
+  <p>
+    Passionate and results-driven Full Stack Developer with 3+ years of experience in building scalable web applications, 
+    mobile backends, and enterprise-level platforms using modern technologies.
+  </p>
 
-I specialize in building complete end-to-end solutions using cutting-edge technologies like MERN Stack, MEAN Stack, and Microsoft .NET.
+</div>
 
-💼 About Me
+<hr/>
 
-🔥 3+ years of professional experience in Full Stack Development
+<h2>Professional Summary</h2>
 
-🌐 Expert in building responsive Websites & Web Apps
+<p>
+Experienced Full Stack Developer specializing in end-to-end application development using MERN Stack, MEAN Stack, and Microsoft .NET technologies.
+Strong expertise in designing responsive UI, developing secure APIs, handling databases, and deploying scalable solutions.
+Focused on performance, clean architecture, and delivering high-quality software solutions.
+</p>
 
-📱 Skilled in developing scalable Mobile Apps & Platforms
+<hr/>
 
-🏗️ Strong knowledge of backend APIs and database systems
+<h2>Technical Skills</h2>
 
-🎯 Passionate about clean code, performance, and user experience
+<h3>Frontend Development</h3>
+<ul>
+  <li>React.js</li>
+  <li>Angular</li>
+  <li>HTML5, CSS3, JavaScript, TypeScript</li>
+  <li>Bootstrap, Tailwind CSS</li>
+</ul>
 
-🛠️ Tech Stack & Skills
-🚀 Frontend Development
+<h3>Backend Development</h3>
+<ul>
+  <li>Node.js, Express.js</li>
+  <li>.NET Core, ASP.NET MVC</li>
+  <li>REST APIs, Authentication, Authorization</li>
+</ul>
 
-React.js ⚛️
+<h3>Database Technologies</h3>
+<ul>
+  <li>MongoDB</li>
+  <li>MySQL</li>
+  <li>SQL Server</li>
+</ul>
 
-Angular 🅰️
+<h3>Tools & Platforms</h3>
+<ul>
+  <li>Git, GitHub</li>
+  <li>Postman</li>
+  <li>Docker (Basics)</li>
+  <li>Vercel, Netlify, Azure</li>
+</ul>
 
-HTML5 | CSS3 | JavaScript | TypeScript
+<hr/>
 
-Bootstrap | Tailwind CSS
+<h2>Professional Experience</h2>
 
-🔧 Backend Development
+<ul>
+  <li>3+ years of experience in Full Stack Web Development</li>
+  <li>Expertise in building responsive and scalable web applications</li>
+  <li>Experience in building secure backend APIs and database architecture</li>
+  <li>Strong understanding of software architecture and performance optimization</li>
+</ul>
 
-Node.js | Express.js
+<hr/>
 
-.NET Core | ASP.NET MVC
+<h2>Projects</h2>
 
-REST APIs | Authentication | Authorization
+<h3>Matrimony Platform</h3>
+<p>
+Full-stack web application including authentication, profile management, search filters, admin dashboard, and role-based access.
+</p>
 
-🗄️ Database Technologies
+<h3>Energy Monitoring System</h3>
+<p>
+IoT integrated platform with React dashboard for live meter data visualization, analytics, and performance tracking.
+</p>
 
-MongoDB 🍃
+<h3>Company Website & Marketing Platform</h3>
+<p>
+Modern responsive multi-page website with SEO optimization, fast performance, and clean UI.
+</p>
 
-MySQL
+<hr/>
 
-SQL Server
+<h2>What I Build</h2>
 
-⚙️ Tools & Platforms
+<ul>
+  <li>Full Stack Web Applications</li>
+  <li>Business Websites & Portfolio Platforms</li>
+  <li>Mobile Application Backends</li>
+  <li>Admin Dashboards</li>
+  <li>Secure API Systems</li>
+  <li>Scalable Startup Platforms</li>
+</ul>
 
-Git & GitHub
+<hr/>
 
-Postman
+<h2>Contact</h2>
 
-Docker (Basics)
+<p>
+<b>Email:</b> vinnug6@gmail.com<br/>
+<b>LinkedIn:</b> linkedin/gurramvinnu<br/>
+<b>Portfolio:</b> Coming Soon
+</p>
 
-Vercel | Netlify | Azure
+<hr/>
 
-🏗️ What I Build
+<h2>Personal Quote</h2>
 
-✅ Full Stack Web Applications
-✅ Business Websites & Portfolio Sites
-✅ Mobile App Backends
-✅ Admin Dashboards
-✅ Scalable Platforms for Startups
-✅ Secure API Systems
-
-📌 Featured Projects
-
-🚀 Matrimony Platform
-Full-stack application with authentication, profile management, search & admin features.
-
-⚡ Energy Monitoring System
-IoT + React Dashboard for live meter data collection and analytics.
-
-🌍 Company Website & Marketing Platform
-Multi-page responsive website with modern UI and performance optimization.
-
-📈 GitHub Stats
-
-📫 Connect With Me
-
-💼 LinkedIn: linkedin/gurramvinnu
-
-🌐 Portfolio: Coming Soon
-
-📧 Email: vinnug6@gmail.com
-
-✨ Quote I Believe In
-
+<p>
 "Build platforms that solve real problems and create impact through technology."
+</p>
 
-⭐ Thank you for visiting my GitHub Profile!
-Feel free to explore my repositories and connect with me.
+<hr/>
+
+<p align="center">
+  Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect.
+</p>
